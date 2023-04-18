@@ -1,5 +1,3 @@
-// Arquivo /src/helpers/validate.ts
-
 function isValidateRequest(req: any, inputs: string[]) {
   if (!inputs.length) return false;
 

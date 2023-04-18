@@ -1,5 +1,3 @@
-// Arquivo: src/router/contato.ts
-
 import { Router } from "express";
 import { isValidateObjectRequest } from "../helpers/validate";
 import { loadContatos, saveContato } from "../helpers/load-data";
